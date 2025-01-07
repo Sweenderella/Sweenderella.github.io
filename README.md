@@ -26,6 +26,7 @@ Key projects: <br>
   <li>Power & Energy</li>
   <li>RajERP</li>
   <li>Raj-Dhara</li>  
+  <li>Raj-CAD</li>
   <li>More ... </li>
 </ul>
 

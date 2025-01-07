@@ -17,7 +17,7 @@ Please note : Given my official rank and title in India ; there are certain prot
 ********************************************************************************************<br>
 Key projects: <br>
 <ul>
-  <li><a href https://github.com/Sweenderella/NEXUS>NEXUS</a></li>
+  <li><a href https://github.com/Sweenderella/NEXUS.git>NEXUS</a></li>
   <li><a href https://github.com/Sweenderella/NEXUS>MATRIX</a></li>
   <li>Matrix</li>
   <li>ORBIT</li>
